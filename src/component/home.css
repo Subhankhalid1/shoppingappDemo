@@ -1,0 +1,25 @@
+
+.App1{
+    background-image: url('Nike.gif');
+    margin: 0%;
+    margin-top: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    background-size: cover;
+    border-image-repeat:no-repeat;
+    height: 90vh;
+    color:whitesmoke;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    background-color: black;
+}
+/* .App1{
+    background-image: url('Nike.gif');
+    margin: 0%;
+    background-size: cover;
+    border-image-repeat:no-repeat;
+    height: 92vh;
+    color: darkgrey;
+} */
